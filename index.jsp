@@ -10,6 +10,13 @@ function confirm(){
 	// logic is pending
 }
 
+// BUG-132 fix changes
+function onUpdate(){
+	var status = null;
+	var status = null;
+	// logic
+}
+
 
 </script>
 <head>
