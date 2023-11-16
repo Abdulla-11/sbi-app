@@ -18,6 +18,14 @@ function onUpdate(){
 }
 
 
+//BUG-131 fix changes
+function onEdit(){
+	var status = null;
+	var finalRes = null;
+	// logic is in progress
+}
+
+
 </script>
 <head>
 
